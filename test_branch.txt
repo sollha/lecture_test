@@ -1,0 +1,3 @@
+.gitignore 파일 add하고 commit 한다
+git checkout master 명령으로 처음오 돌아온다
+git log graph를 전체 그래프를 보여준다
