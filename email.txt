@@ -1,13 +1,10 @@
 sc82.choi@gachon.ac.kr
-<<<<<<< HEAD
-������ 201634945 hyuna1615@gmail.com
-=======
-최석�?201333059	korest75@gmail.com
-강�???201132242 applepath@icloud.com
-?�윤??201231468	ecaf_peace@naver.com
-박운??201331148	vividxenon@gmail.com
-김?��??? 201134160 solllha@naver.com
-강창??201232932	kangcw2020@Naver.com
-조�???201233005	whwldbs15@gmail.com
-?�정??201334002 email
->>>>>>> 7bf07c6d8cd3006696aea6d1b3496674cbf8170d
+최석규 201333059	korest75@gmail.com
+강민승 201132242 applepath@icloud.com
+정윤환	201231468	ecaf_peace@naver.com
+박운한	201331148	vividxenon@gmail.com
+김다란솔  201134160 solllha@naver.com
+강창우 201232932	kangcw2020@Naver.com
+조민성 201233005	whwldbs15@gmail.com
+이정혁 201334002 a.junghyuk@gmail.com
+����� 201634945 hyuna1615@gmail.com
