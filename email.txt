@@ -1,2 +1,12 @@
 sc82.choi@gachon.ac.kr
+<<<<<<< HEAD
 ������ 201334002 a.junghyuk@gmail.com
+=======
+강민승 201132242 applepath@icloud.com
+정윤환	201231468	ecaf_peace@naver.com
+박운한	201331148	vividxenon@gmail.com
+김다란솔  201134160 solllha@naver.com
+강창우 201232932	kangcw2020@Naver.com
+조민성 201233005	whwldbs15@gmail.com
+이정혁 201334002 email
+>>>>>>> bbd2af103fdef793a67f921b5744f455df4f91b3
